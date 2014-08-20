@@ -34,7 +34,7 @@ Other comments
 
 1.	The writing could be greatly improved, and the solution better explained, given that there are two more pages available for the content. 
 
-We will revise our paper accordingly. We did more experiments on various settings such as using one-vs-all SVM as the final classifier, and using dense SIFT and dense SUFR as the rotation invariant feature after the initial submission, and we will include them if possible.
+We will revise our paper accordingly. We did more experiments on various settings such as using one-vs-all SVM as the final classifier, and using dense SIFT, ASIFT(Affine Invariant SIFT) and SUFR as the rotation invariant feature after the initial submission, and we will include them if possible.
 
 ==================================================================================================
 2.	The reference to the CHoG paper by Chandrasekhar et al. is missing. Either the CVPR or the IJCV version should have been cited, given that the approach is based entirely on it.
